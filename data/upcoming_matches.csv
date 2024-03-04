@@ -1,74 +1,20 @@
 start_time,home_team,away_team
-2024-02-29 15:00:00,Bali United Pusam,Persis Solo
-2024-02-29 15:00:00,Szentlorinc,Nyiregyhaza
-2024-02-29 16:00:00,Enyimba,Gombe United
-2024-02-29 16:00:00,H. Herzelia,M. Shaaraim
-2024-02-29 16:00:00,AL Ansar,Safa
-2024-02-29 16:00:00,URA FC,Maroons
-2024-02-29 16:00:00,Kirinya-Jinja SS,Gadafi FC
-2024-02-29 16:00:00,Bahir Dar Kenema FC,Ethiopian Medhin
-2024-02-29 16:00:00,AEK Athens B,Apollon Pontou
-2024-02-29 16:00:00,PAOK Thessaloniki B,Kozani
-2024-02-29 16:35:00,Al Ain,Hatta
-2024-02-29 17:00:00,Al Raed,Al Faiha
-2024-02-29 17:00:00,Odisha FC,East Bengal
-2024-02-29 17:00:00,Al Wehda,Al Taawon
-2024-02-29 17:00:00,Sarpsborg,Bodo/Glimt
-2024-02-29 17:15:00,BOTOSANI,SEPSI
-2024-02-29 18:00:00,Js Saoura U21,CS Constantine U21
-2024-02-29 18:00:00,Nc Magra,MC Oran
-2024-02-29 18:00:00,Abia Warriors,Kwara Utd
-2024-02-29 18:00:00,AC Paradou,US Biskra U21
-2024-02-29 18:00:00,Usm Alger U21,Js Kabylie U21
-2024-02-29 18:00:00,Al-Shamal,Al-Mu Aidar
-2024-02-29 18:00:00,Shooting Stars,Bendel Insurance FC
-2024-02-29 18:30:00,Ludogorets,CSKA 1948
-2024-02-29 19:00:00,Vipers,Bright Stars
-2024-02-29 19:00:00,Dire Dawa,Hambericho Durame
-2024-02-29 19:15:00,Kalba,AL Bataeh (UAE)
-2024-02-29 19:30:00,Petrolul P.,UNIVERSITATEA CRAIOVA
-2024-02-29 20:00:00,Al Wakra,AL Markhiya
-2024-02-29 20:00:00,Al Ahli Doha,Umm-Salal
-2024-02-29 20:00:00,Hapoel Kiryat Shmona,H. Ramat Hasharon
-2024-02-29 20:00:00,Al Nasr,Al Hazm
-2024-02-29 20:00:00,Smouha,Coca Cola
-2024-02-29 20:00:00,Anorthosis,Aris Limassol
-2024-02-29 20:00:00,Zamalek,El Daklyeh
-2024-02-29 20:00:00,Apollon Lim.,AEK Larnaca
-2024-02-29 20:00:00,Deportivo Achuapa,Zacapa
-2024-02-29 20:45:00,GALATASARAY,Karagumruk
-2024-02-29 21:00:00,Bnei Yehuda,Petah Tikva
-2024-02-29 21:00:00,Ujpest,Paksi
-2024-02-29 21:40:00,Njardvik,Fjolnir R
-2024-02-29 22:00:00,Shimshon Tel Aviv,Yavne
-2024-02-29 22:00:00,Altos PI,Fluminense EC PI
-2024-02-29 22:00:00,Fylkir R,Throttur R
-2024-02-29 22:00:00,FEYENOORD,GRONINGEN
-2024-02-29 22:00:00,Stjarnan G,Kopavogs
-2024-02-29 22:00:00,VOLUNTARI,FCSB
-2024-02-29 22:15:00,KVC Westerlo Youth,Jeugd Lommel SK
-2024-02-29 22:15:00,Alianza Atletico,Deportivo Garcilaso
-2024-02-29 22:30:00,SION,Young Boys
-2024-02-29 22:45:00,Antwerp,OOSTENDE
-2024-02-29 22:45:00,Le Puy,RENNES
-2024-02-29 23:00:00,Banfield Reserves,Deportivo Riestra
-2024-02-29 23:00:00,Defensa y Justicia Reserves,Lanus Reserves
-2024-02-29 23:00:00,Barracas Central Reserves,San Lorenzo  Reserve
-2024-02-29 23:30:00,BILBAO,Atletico Madrid
-2024-02-29 23:45:00,Sporting,BENFICA
-2024-03-01 00:00:00,Marathon,Victoria
-2024-03-01 01:00:00,El Nacional,Trinidense
-2024-03-01 01:00:00,Caucaia,Barbalha
-2024-03-01 01:00:00,Gimnasia LP,Instituto Atletico
-2024-03-01 02:00:00,Horizonte,Uniclinic CE
-2024-03-01 02:00:00,Nautico FC MS,AA Portuguesa MS
-2024-03-01 02:15:00,Campinense,Nacional
-2024-03-01 02:15:00,Moto Clube,Imperatriz
-2024-03-01 02:30:00,Sao Raimundo,Capital FC TO
-2024-03-01 03:00:00,Amazonas FC AM,Nacional
-2024-03-01 03:15:00,Huracan,Rosario Central
-2024-03-01 03:15:00,Independiente Riv.,Barracas
-2024-03-01 03:30:00,Fluminense,LDU Quito
-2024-03-01 03:30:00,Colo Colo,Godoy Cruz
-2024-03-01 03:45:00,Ind. Medellin,Pasto
-2024-03-01 04:00:00,Olimpia,Lobos UPNFM
+2024-03-04 23:15:00,Vilaverdense,PACOS FERREIRA
+2024-03-04 23:15:00,Famalicao,BOAVISTA
+2024-03-05 00:00:00,S. Wanderers,Santa Cruz
+2024-03-05 00:00:00,Def. Sporting,Flamengo U20
+2024-03-05 01:00:00,Copiapo,U. de Chile
+2024-03-05 01:00:00,Central Cordoba  Reserve,Estudiantes de la Plata Reserves
+2024-03-05 01:00:00,Sampaio Correa,Tuntum MA
+2024-03-05 01:00:00,Cavaliers FC,Humble Lions FC
+2024-03-05 01:30:00,Tacuary,Sol de America
+2024-03-05 02:00:00,Cascavel,Maringa FC
+2024-03-05 02:05:00,Barranquilla,Real San Andres
+2024-03-05 02:30:00,Barnechea,Curico Unido
+2024-03-05 03:00:00,LDU Quito,Macara
+2024-03-05 03:00:00,Lobos UPNFM,CD Genesis
+2024-03-05 03:00:00,Instituto Atletico,Huracan
+2024-03-05 03:10:00,San Martin de T.,Quilmes
+2024-03-05 03:30:00,Dunbeholden FC,Harbour View
+2024-03-05 04:00:00,San Miguelito,Atletico Ind.
+2024-03-05 04:00:00,Municipal S. A.,Guadalupe
