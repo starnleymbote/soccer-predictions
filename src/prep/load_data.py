@@ -1,8 +1,10 @@
-import requests, csv, pandas
+import csv, pandas
 from match_day import MatchData
 from helper import Helper
 
 class LoadData:
+    """Class to load data"""
+
     def __init__(self, csv_filename):
         self.csv_filename = csv_filename
         self.inserted_matches = set()
