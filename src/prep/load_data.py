@@ -12,8 +12,10 @@ class LoadData:
         self.helper = Helper()
 
     def read_existing_matches(self):
+        
+        """This method get all the current matches that are in our CSV"""
         try:
-            with open(self.csv_filename, mode='r') as csv_file:
+            with open(self.csv_filename, mode='r', encoding="utf-8") as csv_file:
                 reader = csv.DictReader(csv_file)
                 for row in reader:
                     match_identifier = (row['match_day'], row['host_name'], row['guest_name'])
@@ -23,7 +25,10 @@ class LoadData:
             pass
 
     def append_to_csv(self, matches, csv_filename):
-        with open(csv_filename, mode='a', newline='') as csv_file:
+        
+        """Writing data to our  CSV"""
+
+        with open(csv_filename, mode='a', newline='', encoding="utf-8") as csv_file:
             fieldnames = ['match_day', 'host_name', 'guest_name', 'host_score', 'guest_score', 'ov15', 'ov25', 'gg']
             writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
 
